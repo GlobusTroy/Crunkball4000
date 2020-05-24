@@ -1,2 +1,2 @@
 # Crunkball4000
-Play now
+Play an early build now
