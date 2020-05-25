@@ -1,2 +1,2 @@
 # Crunkball4000
-Play an early build now
+Hosted for an easy way to play in browser.
